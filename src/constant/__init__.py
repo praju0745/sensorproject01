@@ -5,7 +5,9 @@ MONGO_DATABASE_NAME = "pwskills"
 MONGO_COLLECTION_NAME = "waferfault"
 
 TARGET_COLUMN = "quality"
-MONGO_DB_URL = "mongodb+srv://snshrivas:Snshrivas@cluster0.u46c4.mongodb.net/?retryWrites=true&w=majority"
+MONGO_DB_URL = "mongodb+srv://Prajwal_Patel:WsNhQ5TiL5H1oy5m@cluster0.kilyzd9.mongodb.net/?appName=Cluster0"
 
 MODEL_FILE_NAME = "model"
 MODEL_FILE_EXTENSION = ".pkl"
+
+artifact_folder="artifacts"
